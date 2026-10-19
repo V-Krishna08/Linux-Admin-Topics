@@ -1,6 +1,11 @@
-# Ultimate Linux Guide
+## Maintained By
 
-This repository is created to serve as a revision notes for the YouTube course created by **Abhishek Veeramalla**(`iam-veeramalla` on GitHub) on his youtube channel - `Abhishek.Veeramalla`.
+Vamsi Thatavarthi
+
+GitHub: https://github.com/V-Krishna08
+
+Based on the Ultimate Linux Guide by
+Extended and maintained by Vamsi Thatavarthi.
 
 Following topics are covered as part of the course and documentation.
 
