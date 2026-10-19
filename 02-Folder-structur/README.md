@@ -1,4 +1,4 @@
-# Understanding the Folder Structure
+# Understanding the Folder Structure.
 
 ### Explanation of System Directories
 
