@@ -1,4 +1,4 @@
-# Package Managers in Linux
+# Package Managers in Linux.
 
 ## 📌 What is a Package Manager?
 A **package manager** is a tool that automates the process of installing, updating, configuring, and removing software in a Linux system. It ensures that software and its dependencies are managed efficiently.

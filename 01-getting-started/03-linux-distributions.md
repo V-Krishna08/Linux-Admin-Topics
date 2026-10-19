@@ -1,4 +1,4 @@
-# Linux Distributions
+# Linux Distributions.
 
 Linux distributions (distros) are different versions of Linux that package the Linux kernel with various software, system utilities, and package managers. Each distro is designed for different use cases, such as personal computing, server management, or security.
 
